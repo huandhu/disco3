@@ -2,7 +2,11 @@
 
 仿造 B 站的 3D 在线蹦迪项目
 
-<video height="100" width="400" src="https://github.com/huandhu/disco3/video.mp4">
+<!-- <video height="100" width="400" src="https://github.com/huandhu/disco3/video.mp4"> -->
+
+<video height="300" id="video" controls="" preload="none">
+      <source src="https://github.com/huandhu/disco3/video.mp4" type="video/mp4">
+</videos>
 
 ### 安装
 
