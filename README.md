@@ -1,6 +1,10 @@
 # disco3
 
 仿造 B 站的 3D 在线蹦迪项目
+### 效果
+
+https://github.com/huandhu/disco3/assets/31198563/e2f116a7-41c2-43d4-b21b-cc0d674ca2d2
+
 
 ### 安装
 
