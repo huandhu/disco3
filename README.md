@@ -2,6 +2,13 @@
 
 仿造 B 站的 3D 在线蹦迪项目
 
+<video height="100" width="400" src="https://github.com/huandhu/disco3/video.mp4">
+
+### 安装
+
+-   项目使用 `Creator 3.5.0 开发`，请使用 `3.5.0` 以上版本打开
+-   执行 `npm install` 安装项目需要的用到的第三方库
+
 ### 配置
 
 由于项目是使用环信 IM sdk 实现的多端消息通信，因此需要对使用该 sdk 的管理里对象的 WebIMManage 进行相关配置， 步骤如下如下：
