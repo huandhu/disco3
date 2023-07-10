@@ -1,0 +1,118 @@
+{
+  "ver": "2.1.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f872643e-b912-4af7-93e9-1512b37b387e",
+  "files": [],
+  "subMetas": {
+    "ea84e": {
+      "importer": "gltf-mesh",
+      "uuid": "f872643e-b912-4af7-93e9-1512b37b387e@ea84e",
+      "displayName": "",
+      "id": "ea84e",
+      "name": "LightBeam01_Material1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7f9e6": {
+      "importer": "gltf-material",
+      "uuid": "f872643e-b912-4af7-93e9-1512b37b387e@7f9e6",
+      "displayName": "",
+      "id": "7f9e6",
+      "name": "LightBeam01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cea9e": {
+      "importer": "gltf-scene",
+      "uuid": "f872643e-b912-4af7-93e9-1512b37b387e@cea9e",
+      "displayName": "",
+      "id": "cea9e",
+      "name": "LightBeam01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "f872643e-b912-4af7-93e9-1512b37b387e@cea9e",
+    "assetFinder": {
+      "meshes": [
+        "f872643e-b912-4af7-93e9-1512b37b387e@ea84e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f872643e-b912-4af7-93e9-1512b37b387e@7f9e6"
+      ],
+      "scenes": [
+        "f872643e-b912-4af7-93e9-1512b37b387e@cea9e"
+      ]
+    },
+    "materials": {
+      "f872643e-b912-4af7-93e9-1512b37b387e@7f9e6": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "76ae3380-5944-49bf-a5a6-2c5471f1b147",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": "1",
+        "_defines": [
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainTexture": {
+              "__uuid__": "9ae91875-d1d0-4710-b4fb-31eed13e2b9e@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "clipPlane": {
+              "__type__": "cc.Vec4",
+              "x": 0,
+              "y": 1,
+              "z": 0,
+              "w": 0
+            }
+          }
+        ]
+      }
+    }
+  }
+}

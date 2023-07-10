@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.Material",
+  "_name": "耳机暗紫色",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {}
+    }
+  ],
+  "_props": [
+    {
+      "albedoScale": {
+        "__type__": "cc.Vec3",
+        "x": 0.6905063986778259,
+        "y": 0.29670923948287964,
+        "z": 0.7599999904632568
+      },
+      "metallic": 0.4000000059604645,
+      "roughness": 0.24253562092781067,
+      "emissiveScale": {
+        "__type__": "cc.Vec4",
+        "x": 0.03999999910593033,
+        "y": 0.03999999910593033,
+        "z": 0.03999999910593033,
+        "w": 1
+      }
+    }
+  ]
+}

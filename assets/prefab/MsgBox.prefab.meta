@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.38",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "8279ffed-2c75-447c-9070-feae237af768",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "MsgBox"
+  }
+}

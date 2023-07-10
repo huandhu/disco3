@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.Material",
+  "_name": "台子",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {}
+    }
+  ],
+  "_props": [
+    {
+      "albedoScale": {
+        "__type__": "cc.Vec3",
+        "x": 0.5702866911888123,
+        "y": 0.3799305260181427,
+        "z": 0.8029441833496094
+      },
+      "metallic": 0.4000000059604645,
+      "roughness": 0.24253562092781067,
+      "emissiveScale": {
+        "__type__": "cc.Vec4",
+        "x": 0.029999999329447746,
+        "y": 0.029999999329447746,
+        "z": 0.029999999329447746,
+        "w": 1
+      }
+    }
+  ]
+}

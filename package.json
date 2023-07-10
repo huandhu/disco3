@@ -1,0 +1,13 @@
+{
+  "creator": {
+    "version": "3.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "easemob-websdk": "^4.0.4"
+  },
+  "name": "disco3",
+  "type": "3d",
+  "uuid": "ed2c9bc8-6562-442b-b5c7-b2bde0645591",
+  "version": "3.5.0"
+}

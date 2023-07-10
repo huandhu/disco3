@@ -1,0 +1,240 @@
+{
+  "ver": "2.1.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1d1c7f53-c005-4b7e-8360-95101ff10426",
+  "files": [],
+  "subMetas": {
+    "c4a45": {
+      "importer": "gltf-mesh",
+      "uuid": "1d1c7f53-c005-4b7e-8360-95101ff10426@c4a45",
+      "displayName": "",
+      "id": "c4a45",
+      "name": "DiscoLight04Base.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "95caa": {
+      "importer": "gltf-mesh",
+      "uuid": "1d1c7f53-c005-4b7e-8360-95101ff10426@95caa",
+      "displayName": "",
+      "id": "95caa",
+      "name": "DiscoLight04.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5868": {
+      "importer": "gltf-mesh",
+      "uuid": "1d1c7f53-c005-4b7e-8360-95101ff10426@e5868",
+      "displayName": "",
+      "id": "e5868",
+      "name": "DiscoLight04Light_Material0.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32d96": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1d1c7f53-c005-4b7e-8360-95101ff10426@32d96",
+      "displayName": "",
+      "id": "32d96",
+      "name": "Map #0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab932": {
+      "importer": "texture",
+      "uuid": "1d1c7f53-c005-4b7e-8360-95101ff10426@ab932",
+      "displayName": "",
+      "id": "ab932",
+      "name": "Map #0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1d1c7f53-c005-4b7e-8360-95101ff10426@32d96"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5227b": {
+      "importer": "gltf-material",
+      "uuid": "1d1c7f53-c005-4b7e-8360-95101ff10426@5227b",
+      "displayName": "",
+      "id": "5227b",
+      "name": "Material #14.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9ceac": {
+      "importer": "gltf-scene",
+      "uuid": "1d1c7f53-c005-4b7e-8360-95101ff10426@9ceac",
+      "displayName": "",
+      "id": "9ceac",
+      "name": "DiscoLight04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #0",
+        "uri": "1d1c7f53-c005-4b7e-8360-95101ff10426@32d96"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "1d1c7f53-c005-4b7e-8360-95101ff10426@9ceac",
+    "assetFinder": {
+      "meshes": [
+        "1d1c7f53-c005-4b7e-8360-95101ff10426@c4a45",
+        "1d1c7f53-c005-4b7e-8360-95101ff10426@95caa",
+        "1d1c7f53-c005-4b7e-8360-95101ff10426@e5868"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1d1c7f53-c005-4b7e-8360-95101ff10426@ab932"
+      ],
+      "materials": [
+        "1d1c7f53-c005-4b7e-8360-95101ff10426@5227b"
+      ],
+      "scenes": [
+        "1d1c7f53-c005-4b7e-8360-95101ff10426@9ceac"
+      ]
+    },
+    "materials": {
+      "1d1c7f53-c005-4b7e-8360-95101ff10426@5227b": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_NORMAL_MAP": true,
+            "USE_ALBEDO_MAP": true,
+            "USE_METALLIC_ROUGHNESS_MAP": true,
+            "USE_OCCLUSION_MAP": true,
+            "USE_EMISSIVE_MAP": true
+          },
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "roughness": 0.7071067690849304,
+            "metallic": 0.4000000059604645,
+            "mainTexture": {
+              "__uuid__": "85c8052a-76c4-41bd-aba9-dfe7cd808786@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "normalMap": {
+              "__uuid__": "3812b44e-1605-44c6-9019-6174b0d20307@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "metallicRoughnessMap": {
+              "__uuid__": "12999668-9675-48b0-85f6-7a00675e8a43@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "occlusionMap": {
+              "__uuid__": "2a7c587e-249e-4abc-b23c-63f1ae2a4f01@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "emissiveMap": {
+              "__uuid__": "ca872a82-77e0-430e-a15c-868e3e4f2e81@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            }
+          },
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}
